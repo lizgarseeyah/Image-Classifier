@@ -9,4 +9,4 @@
                       manager called "active_session" that can be used to maintain an active session during
                       long running processes.
 
-This projects builds an image classifier using PyTorch. The trained image classifier is used to identify a set of images.
+This projects builds an image classifier using PyTorch, NVIDIA GPU. The trained image classifier is used to identify a set of images.
